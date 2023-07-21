@@ -77,8 +77,7 @@ events {}
 
 # ウェブサイトでの表示
 
-このサーバーブロックはポート8080でリクエストを受け付けます。
-ルートディレクトリは/Users/linleckkyalsin/Desktop/mysiteに設定されます。
+このサーバーブロックはポート8080でリクエストを受け付けます。ルートディレクトリは/Users/linleckkyalsin/Desktop/mysiteに設定されます。
 
 `localhost:8080`でNginxのウェルカムページから次のように表示するようにする。
 
