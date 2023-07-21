@@ -85,7 +85,7 @@ events {}
 
 <img width="642" alt="Screenshot 2023-07-21 at 3 58 59 PM" src="https://github.com/linleck/HiWorld/assets/120652222/833601eb-6238-409e-854c-c8061042ee2c">
 
-`localhost:8080/vegetables`へのリクエストは/Users/linleckkyalsin/Desktop/mysiteからのファイルを提供します。で野菜のリストを表示する。ファイルが存在しない場合、/vegetables/vegetable.htmlまたは/index.htmlを提供します。
+`localhost:8080/vegetables`へのリクエストは/Users/linleckkyalsin/Desktop/mysiteからのファイルを提供します。ファイルが存在しない場合、/vegetables/vegetable.htmlまたは/index.htmlを提供します。
 
 <img width="599" alt="Screenshot 2023-07-21 at 3 58 50 PM" src="https://github.com/linleck/HiWorld/assets/120652222/9ccb2fe1-b204-41c1-8391-d5a778849f99">
 
