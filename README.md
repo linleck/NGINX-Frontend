@@ -77,9 +77,7 @@ events {}
 
 # ウェブサイトでの表示
 
-このサーバーブロックはポート8080でリクエストを受け付けます。ルートディレクトリは/Users/linleckkyalsin/Desktop/mysiteに設定されます。
-
-`localhost:8080`でNginxのウェルカムページから次のように表示するようにする。
+このサーバーブロックはポート8080でリクエストを受け付けます。ルートディレクトリは/Users/linleckkyalsin/Desktop/mysiteに設定されます。`localhost:8080`でNginxのウェルカムページから次のように表示するようにする。
 
 <img width="1440" alt="Screenshot 2023-07-21 at 2 06 48 PM" src="https://github.com/linleck/HiWorld/assets/120652222/c56b9fd9-f540-4d50-b961-3342bc79b728">
 
