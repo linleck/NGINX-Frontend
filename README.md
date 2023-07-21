@@ -85,25 +85,34 @@ events {}
 <img width="1440" alt="Screenshot 2023-07-21 at 2 06 48 PM" src="https://github.com/linleck/HiWorld/assets/120652222/c56b9fd9-f540-4d50-b961-3342bc79b728">
 
 `localhost:8080/fruits`へのリクエストは/Users/linleckkyalsin/Desktop/mysiteからのファイルを提供します。
+
 <img width="642" alt="Screenshot 2023-07-21 at 3 58 59 PM" src="https://github.com/linleck/HiWorld/assets/120652222/833601eb-6238-409e-854c-c8061042ee2c">
 
 `localhost:8080/vegetables`へのリクエストは/Users/linleckkyalsin/Desktop/mysiteからのファイルを提供します。で野菜のリストを表示する。ファイルが存在しない場合、/vegetables/vegetable.htmlまたは/index.htmlを提供します。
+
 <img width="599" alt="Screenshot 2023-07-21 at 3 58 50 PM" src="https://github.com/linleck/HiWorld/assets/120652222/9ccb2fe1-b204-41c1-8391-d5a778849f99">
 
 `localhost:8080/carbs`へのリクエストは/Users/linleckkyalsin/Desktop/mysite/fruitsからのファイルを提供します。
+
 <img width="735" alt="Screenshot 2023-07-21 at 5 56 01 PM" src="https://github.com/linleck/HiWorld/assets/120652222/7462f6fb-9ae2-4e90-afc3-765151fbb191">
 
 `localhost:8080/count/数字` へのリクエストは /Users/linleckkyalsin/Desktop/mysite からのファイルを提供します。ファイルが存在しない場合、/index.htmlを提供します。
+
 <img width="715" alt="Screenshot 2023-07-21 at 4 39 25 PM" src="https://github.com/linleck/HiWorld/assets/120652222/1af90c5d-e8c7-4e52-a829-e460b0790278">
 
 `localhost:8080/crops`へのリクエストは一時的なリダイレクトとして`localhost:8080/fruits`にリダイレクトします。
+
 <img width="642" alt="Screenshot 2023-07-21 at 3 58 59 PM" src="https://github.com/linleck/HiWorld/assets/120652222/833601eb-6238-409e-854c-c8061042ee2c">
 
 Expressサーバーがポート7777でリッスンを開始し、"/"へのGETリクエストが行われた場合に「I am a endpoint」というメッセージが返されるシンプルなWebサーバーが起動します。
+
 <img width="713" alt="Screenshot 2023-07-21 at 4 45 13 PM" src="https://github.com/linleck/HiWorld/assets/120652222/61e62756-521d-4812-9202-bd2cb47bc71d">
 
 他の4つのバックエンドサーバーが定義され、Dockerで指定したイメージを使用して新しいコンテナを作成し、コンテナをバックグラウンドで起動し、コンテナのポート7777が各ホストのポートにマッピングされ、コンテナ内のアプリケーションが各ホストのポートを介して外部からアクセス可能になります。
+
 <img width="634" alt="Screenshot 2023-07-21 at 4 44 01 PM" src="https://github.com/linleck/HiWorld/assets/120652222/7e47ae59-39f9-4ab5-8f4f-34e6435d424b">
+
 <img width="839" alt="Screenshot 2023-07-21 at 8 17 43 PM" src="https://github.com/linleck/HiWorld/assets/120652222/77150c54-10db-4a31-8957-463307c6e159">
+
 <img width="669" alt="Screenshot 2023-07-21 at 8 20 04 PM" src="https://github.com/linleck/HiWorld/assets/120652222/c27679ff-be31-4713-b3e1-1172c6164d38">
 <img width="748" alt="Screenshot 2023-07-21 at 8 18 23 PM" src="https://github.com/linleck/HiWorld/assets/120652222/f778e1cc-1cd4-465a-8578-178d61d393c4">
