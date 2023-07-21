@@ -95,7 +95,7 @@ events {}
 
 `localhost:8080/count/数字` へのリクエストは /Users/linleckkyalsin/Desktop/mysite からのファイルを提供します。ファイルが存在しない場合、/index.htmlを提供します。
 
-<img width="715" alt="Screenshot 2023-07-21 at 4 39 25 PM" src="https://github.com/linleck/HiWorld/assets/120652222/1af90c5d-e8c7-4e52-a829-e460b0790278">
+<img width="649" alt="Screenshot 2023-07-21 at 9 18 22 PM" src="https://github.com/linleck/Nginx_Project/assets/120652222/3d710892-ba79-4a8e-b269-055e64948930">
 
 `localhost:8080/crops`へのリクエストは一時的なリダイレクトとして`localhost:8080/fruits`にリダイレクトします。
 
