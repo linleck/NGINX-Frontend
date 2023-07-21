@@ -113,3 +113,7 @@ Expressサーバーがポート7777でリッスンを開始し、"/"へのGETリ
 
 <img width="669" alt="Screenshot 2023-07-21 at 8 20 04 PM" src="https://github.com/linleck/HiWorld/assets/120652222/c27679ff-be31-4713-b3e1-1172c6164d38">
 <img width="748" alt="Screenshot 2023-07-21 at 8 18 23 PM" src="https://github.com/linleck/HiWorld/assets/120652222/f778e1cc-1cd4-465a-8578-178d61d393c4">
+
+# 参考したリンク
+
+https://www.youtube.com/watch?v=7VAI73roXaY&t=718s
